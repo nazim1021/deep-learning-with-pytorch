@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch
 
-This repo contains notebooks from Udacity's Deep Learning with PyTorch lesson. This lesson appears is a part of [Secure and Private AI Scholarship Challenge Nanodegree Program](https://www.udacity.com/course/secure-and-private-ai--ud185).
+This repo contains notebooks from Udacity's Deep Learning with PyTorch lesson. This lesson is a part of [Secure and Private AI Scholarship Challenge Nanodegree Program](https://www.udacity.com/course/secure-and-private-ai--ud185).
 
 * **Part 1:** Introduction to PyTorch and using tensors
 * **Part 2:** Building fully-connected neural networks with PyTorch
